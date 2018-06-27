@@ -1,1 +1,1 @@
-worker: node launch.js
+worker: node package.js
