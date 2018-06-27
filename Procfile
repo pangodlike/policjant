@@ -1,1 +1,1 @@
-worker: node setup.js
+worker: node app/index.js
