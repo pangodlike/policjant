@@ -1,1 +1,1 @@
-worker: node launch.json
+worker: node launch.js
